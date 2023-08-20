@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99fcdc86-06be-4ed6-807a-1e0bf1fc764c" name="Changes" comment="estructura de repeticion">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/KotlinBasics/dowhile.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/archivox.kt" afterDir="false" />
+    <list default="true" id="99fcdc86-06be-4ed6-807a-1e0bf1fc764c" name="Changes" comment="estructura de repeticion do while">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/KotlinBasics/clases.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/KotlinBasics/colecciones.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/KotlinBasics/funciones.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KotlinBasics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/KotlinBasics.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +43,7 @@
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin.FuncionesKt">
     <configuration name="ComentariosKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ComentariosKt" />
       <module name="KotlinBasics" />
@@ -58,8 +58,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FuncionesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KotlinBasics.FuncionesKt" />
+      <module name="KotlinBasics" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.FuncionesKt" />
         <item itemvalue="Kotlin.ForKt" />
         <item itemvalue="Kotlin.ComentariosKt" />
       </list>
@@ -114,7 +122,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692543468510</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="estructura de repeticion do while">
+      <option name="closed" value="true" />
+      <created>1692544179346</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1692544179346</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -158,6 +174,7 @@
     <MESSAGE value="Introduccion al lenguaje kotlin" />
     <MESSAGE value="repaso de sintaxis basica de kotlin" />
     <MESSAGE value="estructura de repeticion" />
-    <option name="LAST_COMMIT_MESSAGE" value="estructura de repeticion" />
+    <MESSAGE value="estructura de repeticion do while" />
+    <option name="LAST_COMMIT_MESSAGE" value="estructura de repeticion do while" />
   </component>
 </project>
