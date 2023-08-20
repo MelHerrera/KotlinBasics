@@ -17,7 +17,7 @@ fun main() {
 
 
     //Tipos de datos numericos enteros
-    var tpByte:Byte = 0;
+    var tpByte:Byte = 127;
     var tpShot:Short = 0;
     var tpInt:Int = 0;
     var tpLong:Long = 0;
@@ -25,4 +25,6 @@ fun main() {
     //Tipos de datos numericos decimales
     var tpFloat:Float = 0.0f;
     var tp:Double = 0.0;
+
+    var tpGeneral:Any = 21
 }
