@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99fcdc86-06be-4ed6-807a-1e0bf1fc764c" name="Changes" comment="Introduccion al lenguaje kotlin">
+    <list default="true" id="99fcdc86-06be-4ed6-807a-1e0bf1fc764c" name="Changes" comment="repaso de sintaxis basica de kotlin">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/KotlinBasics/while.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/KotlinBasics/comentarios.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/KotlinBasics/comentarios.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/KotlinBasics/variables.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/KotlinBasics/variables.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin File" />
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -42,7 +41,7 @@
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.ForKt">
+  <component name="RunManager">
     <configuration name="ComentariosKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ComentariosKt" />
       <module name="KotlinBasics" />
@@ -89,12 +88,21 @@
       <option name="project" value="LOCAL" />
       <updated>1691941393892</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="repaso de sintaxis basica de kotlin">
+      <option name="closed" value="true" />
+      <created>1692543146626</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1692543146626</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Iniciaciòn del proyecto" />
     <MESSAGE value="Introduccion al lenguaje kotlin" />
-    <option name="LAST_COMMIT_MESSAGE" value="Introduccion al lenguaje kotlin" />
+    <MESSAGE value="repaso de sintaxis basica de kotlin" />
+    <option name="LAST_COMMIT_MESSAGE" value="repaso de sintaxis basica de kotlin" />
   </component>
 </project>
