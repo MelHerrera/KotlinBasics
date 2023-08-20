@@ -3,6 +3,6 @@ fun main(){
 
     while (cantidad <= 10){
         println(cantidad)
-        cantidad ++;
+        cantidad ++
     }
 }

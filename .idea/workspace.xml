@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99fcdc86-06be-4ed6-807a-1e0bf1fc764c" name="Changes" comment="repaso de sintaxis basica de kotlin">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/KotlinBasics/while.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="99fcdc86-06be-4ed6-807a-1e0bf1fc764c" name="Changes" comment="estructura de repeticion">
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/KotlinBasics/while.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/KotlinBasics/while.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,13 +95,22 @@
       <option name="project" value="LOCAL" />
       <updated>1692543146626</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="estructura de repeticion">
+      <option name="closed" value="true" />
+      <created>1692543439156</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1692543439156</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Iniciaciòn del proyecto" />
     <MESSAGE value="Introduccion al lenguaje kotlin" />
     <MESSAGE value="repaso de sintaxis basica de kotlin" />
-    <option name="LAST_COMMIT_MESSAGE" value="repaso de sintaxis basica de kotlin" />
+    <MESSAGE value="estructura de repeticion" />
+    <option name="LAST_COMMIT_MESSAGE" value="estructura de repeticion" />
   </component>
 </project>
