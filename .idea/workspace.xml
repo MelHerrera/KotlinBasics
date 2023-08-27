@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99fcdc86-06be-4ed6-807a-1e0bf1fc764c" name="Changes" comment="clases&#10;colecciones&#10;funciones">
+    <list default="true" id="99fcdc86-06be-4ed6-807a-1e0bf1fc764c" name="Changes" comment="colecciones arrayList y HashMap">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/KotlinBasics/reto1_dias_semana.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/KotlinBasics/colecciones.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/KotlinBasics/colecciones.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/KotlinBasics/condicionales.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/KotlinBasics/condicionales.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +42,7 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.FuncionesKt">
+  <component name="RunManager">
     <configuration name="ComentariosKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ComentariosKt" />
       <module name="KotlinBasics" />
@@ -136,7 +137,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692546486944</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="colecciones arrayList y HashMap">
+      <option name="closed" value="true" />
+      <created>1693147025431</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1693147025431</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -182,6 +191,7 @@
     <MESSAGE value="estructura de repeticion" />
     <MESSAGE value="estructura de repeticion do while" />
     <MESSAGE value="clases&#10;colecciones&#10;funciones" />
-    <option name="LAST_COMMIT_MESSAGE" value="clases&#10;colecciones&#10;funciones" />
+    <MESSAGE value="colecciones arrayList y HashMap" />
+    <option name="LAST_COMMIT_MESSAGE" value="colecciones arrayList y HashMap" />
   </component>
 </project>
